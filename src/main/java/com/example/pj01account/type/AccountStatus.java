@@ -1,4 +1,4 @@
-package com.example.pj01account.domain;
+package com.example.pj01account.type;
 
 public enum AccountStatus {
 
